@@ -54,7 +54,7 @@ chmod +x ./setup.sh
 ```
 Usage:
 
-```./blackeye.sh```
+```./satan.sh```
 <p><a href="https://i.imgur.com/irdzUjd.png"><img title="satan" src="https://i.imgur.com/irdzUjd.png"></a>
 </p>
 
